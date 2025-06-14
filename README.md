@@ -19,7 +19,7 @@ cd MayReplit
 
 ### 2️⃣ Instalar dependencias
 ```bash
-npm install
+npm install && npx playwright install --with-deps
 ```
 
 ### 3️⃣ Configurar (¡Solo esto tienes que hacer!)
