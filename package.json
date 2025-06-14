@@ -1,5 +1,5 @@
 {
-  "name": "mayreplit-project",
+  "name": "mayreplit",
   "version": "1.0.0",
   "description": "Mantén tu Replit activo 24/7 de forma súper fácil - Solo edita config.js y listo!",
   "main": "index.js",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoySapo6/MayReplit-Project.git"
+    "url": "git+https://github.com/SoySapo6/MayReplit.git"
   },
   "bugs": {
-    "url": "https://github.com/SoySapo6/MayReplit-Project/issues"
+    "url": "https://github.com/SoySapo6/MayReplit/issues"
   },
-  "homepage": "https://github.com/SoySapo6/MayReplit-Project#readme"
+  "homepage": "https://github.com/SoySapo6/MayReplit#readme"
 }
