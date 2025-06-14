@@ -14,7 +14,7 @@ Un proyecto **súper simple** que usa el módulo `@soymaycol/mayreplit` para man
 ### 1️⃣ Descargar el proyecto
 ```bash
 git clone https://github.com/SoySapo6/MayReplit-Project.git
-cd MayReplit-Project
+cd MayReplit
 ```
 
 ### 2️⃣ Instalar dependencias
