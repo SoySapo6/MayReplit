@@ -1,0 +1,39 @@
+{
+  "name": "mayreplit-project",
+  "version": "1.0.0",
+  "description": "Mantén tu Replit activo 24/7 de forma súper fácil - Solo edita config.js y listo!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "replit",
+    "24/7",
+    "keep-alive",
+    "automation",
+    "easy-setup",
+    "mayreplit"
+  ],
+  "author": {
+    "name": "SoyMaycol",
+    "github": "SoySapo6"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@soymaycol/mayreplit": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoySapo6/MayReplit-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoySapo6/MayReplit-Project/issues"
+  },
+  "homepage": "https://github.com/SoySapo6/MayReplit-Project#readme"
+}
